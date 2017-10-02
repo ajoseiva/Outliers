@@ -1,0 +1,2 @@
+# Outliers
+Outliers R package
